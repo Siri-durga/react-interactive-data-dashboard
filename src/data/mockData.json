@@ -1,0 +1,366 @@
+[
+    {
+        "id": "1",
+        "date": "2023-01-01",
+        "category": "Electronics",
+        "value": 120,
+        "region": "North"
+    },
+    {
+        "id": "2",
+        "date": "2023-01-05",
+        "category": "Books",
+        "value": 45,
+        "region": "South"
+    },
+    {
+        "id": "3",
+        "date": "2023-01-10",
+        "category": "Electronics",
+        "value": 200,
+        "region": "East"
+    },
+    {
+        "id": "4",
+        "date": "2023-01-12",
+        "category": "Clothing",
+        "value": 85,
+        "region": "West"
+    },
+    {
+        "id": "5",
+        "date": "2023-01-15",
+        "category": "Home & Garden",
+        "value": 150,
+        "region": "North"
+    },
+    {
+        "id": "6",
+        "date": "2023-01-18",
+        "category": "Books",
+        "value": 60,
+        "region": "East"
+    },
+    {
+        "id": "7",
+        "date": "2023-01-22",
+        "category": "Electronics",
+        "value": 180,
+        "region": "West"
+    },
+    {
+        "id": "8",
+        "date": "2023-01-25",
+        "category": "Clothing",
+        "value": 110,
+        "region": "South"
+    },
+    {
+        "id": "9",
+        "date": "2023-01-28",
+        "category": "Home & Garden",
+        "value": 95,
+        "region": "East"
+    },
+    {
+        "id": "10",
+        "date": "2023-02-02",
+        "category": "Electronics",
+        "value": 210,
+        "region": "North"
+    },
+    {
+        "id": "11",
+        "date": "2023-02-05",
+        "category": "Books",
+        "value": 55,
+        "region": "West"
+    },
+    {
+        "id": "12",
+        "date": "2023-02-08",
+        "category": "Clothing",
+        "value": 130,
+        "region": "North"
+    },
+    {
+        "id": "13",
+        "date": "2023-02-12",
+        "category": "Electronics",
+        "value": 240,
+        "region": "South"
+    },
+    {
+        "id": "14",
+        "date": "2023-02-15",
+        "category": "Home & Garden",
+        "value": 160,
+        "region": "West"
+    },
+    {
+        "id": "15",
+        "date": "2023-02-18",
+        "category": "Books",
+        "value": 75,
+        "region": "North"
+    },
+    {
+        "id": "16",
+        "date": "2023-02-22",
+        "category": "Clothing",
+        "value": 90,
+        "region": "East"
+    },
+    {
+        "id": "17",
+        "date": "2023-02-25",
+        "category": "Electronics",
+        "value": 195,
+        "region": "West"
+    },
+    {
+        "id": "18",
+        "date": "2023-03-02",
+        "category": "Home & Garden",
+        "value": 140,
+        "region": "South"
+    },
+    {
+        "id": "19",
+        "date": "2023-03-05",
+        "category": "Books",
+        "value": 80,
+        "region": "East"
+    },
+    {
+        "id": "20",
+        "date": "2023-03-08",
+        "category": "Clothing",
+        "value": 115,
+        "region": "North"
+    },
+    {
+        "id": "21",
+        "date": "2023-03-12",
+        "category": "Electronics",
+        "value": 220,
+        "region": "East"
+    },
+    {
+        "id": "22",
+        "date": "2023-03-15",
+        "category": "Home & Garden",
+        "value": 175,
+        "region": "West"
+    },
+    {
+        "id": "23",
+        "date": "2023-03-18",
+        "category": "Books",
+        "value": 65,
+        "region": "South"
+    },
+    {
+        "id": "24",
+        "date": "2023-03-22",
+        "category": "Clothing",
+        "value": 95,
+        "region": "West"
+    },
+    {
+        "id": "25",
+        "date": "2023-03-25",
+        "category": "Electronics",
+        "value": 205,
+        "region": "North"
+    },
+    {
+        "id": "26",
+        "date": "2023-04-02",
+        "category": "Home & Garden",
+        "value": 155,
+        "region": "East"
+    },
+    {
+        "id": "27",
+        "date": "2023-04-05",
+        "category": "Books",
+        "value": 90,
+        "region": "West"
+    },
+    {
+        "id": "28",
+        "date": "2023-04-08",
+        "category": "Clothing",
+        "value": 125,
+        "region": "South"
+    },
+    {
+        "id": "29",
+        "date": "2023-04-12",
+        "category": "Electronics",
+        "value": 235,
+        "region": "West"
+    },
+    {
+        "id": "30",
+        "date": "2023-04-15",
+        "category": "Home & Garden",
+        "value": 185,
+        "region": "North"
+    },
+    {
+        "id": "31",
+        "date": "2023-04-18",
+        "category": "Books",
+        "value": 70,
+        "region": "East"
+    },
+    {
+        "id": "32",
+        "date": "2023-04-22",
+        "category": "Clothing",
+        "value": 105,
+        "region": "North"
+    },
+    {
+        "id": "33",
+        "date": "2023-04-25",
+        "category": "Electronics",
+        "value": 215,
+        "region": "South"
+    },
+    {
+        "id": "34",
+        "date": "2023-05-02",
+        "category": "Home & Garden",
+        "value": 165,
+        "region": "West"
+    },
+    {
+        "id": "35",
+        "date": "2023-05-05",
+        "category": "Books",
+        "value": 85,
+        "region": "North"
+    },
+    {
+        "id": "36",
+        "date": "2023-05-08",
+        "category": "Clothing",
+        "value": 140,
+        "region": "East"
+    },
+    {
+        "id": "37",
+        "date": "2023-05-12",
+        "category": "Electronics",
+        "value": 250,
+        "region": "North"
+    },
+    {
+        "id": "38",
+        "date": "2023-05-15",
+        "category": "Home & Garden",
+        "value": 195,
+        "region": "South"
+    },
+    {
+        "id": "39",
+        "date": "2023-05-18",
+        "category": "Books",
+        "value": 95,
+        "region": "West"
+    },
+    {
+        "id": "40",
+        "date": "2023-05-22",
+        "category": "Clothing",
+        "value": 110,
+        "region": "East"
+    },
+    {
+        "id": "41",
+        "date": "2023-05-25",
+        "category": "Electronics",
+        "value": 230,
+        "region": "North"
+    },
+    {
+        "id": "42",
+        "date": "2023-06-02",
+        "category": "Home & Garden",
+        "value": 170,
+        "region": "East"
+    },
+    {
+        "id": "43",
+        "date": "2023-06-05",
+        "category": "Books",
+        "value": 100,
+        "region": "South"
+    },
+    {
+        "id": "44",
+        "date": "2023-06-08",
+        "category": "Clothing",
+        "value": 135,
+        "region": "West"
+    },
+    {
+        "id": "45",
+        "date": "2023-06-12",
+        "category": "Electronics",
+        "value": 260,
+        "region": "West"
+    },
+    {
+        "id": "46",
+        "date": "2023-06-15",
+        "category": "Home & Garden",
+        "value": 205,
+        "region": "North"
+    },
+    {
+        "id": "47",
+        "date": "2023-06-18",
+        "category": "Books",
+        "value": 105,
+        "region": "East"
+    },
+    {
+        "id": "48",
+        "date": "2023-06-22",
+        "category": "Clothing",
+        "value": 120,
+        "region": "South"
+    },
+    {
+        "id": "49",
+        "date": "2023-06-25",
+        "category": "Electronics",
+        "value": 245,
+        "region": "North"
+    },
+    {
+        "id": "50",
+        "date": "2023-06-30",
+        "category": "Home & Garden",
+        "value": 180,
+        "region": "West"
+    },
+    {
+        "id": "51",
+        "date": "2023-07-02",
+        "category": "Electronics",
+        "value": 270,
+        "region": "East"
+    },
+    {
+        "id": "52",
+        "date": "2023-07-05",
+        "category": "Clothing",
+        "value": 145,
+        "region": "North"
+    }
+]

@@ -89,4 +89,4 @@ To run the application using Docker Compose:
 - **Styling**: Leveraged Tailwind CSS for rapid styling, ensuring responsive breakpoints and creating a consistent dark/light mode adaptable interface.
 
 ## Contact
-SIRI
+DURGA LALITHA SRI VARSHITHA-23A91A0516

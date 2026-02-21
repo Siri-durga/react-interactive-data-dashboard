@@ -50,7 +50,7 @@ const Dashboard = () => {
         setIsLoading(true);
         setError(null);
 
-        // Simulate processing delay for filtering to show loading state
+        // Simulate processing delay for filtering to show loading state (must be under 300ms)
         const timer = setTimeout(() => {
             if (isMounted) {
                 const result = filterData(rawData, filters);
@@ -62,7 +62,7 @@ const Dashboard = () => {
                 setFilteredData(result);
                 setIsLoading(false);
             }
-        }, 400);
+        }, 200);
 
         return () => {
             clearTimeout(timer);
